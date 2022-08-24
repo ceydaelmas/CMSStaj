@@ -1972,11 +1972,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\win10\\Source\\Repos\\NortwindLvl2\\Business\\Business.csproj",
+      "projectUniqueName": "C:\\Users\\win10\\Desktop\\CMSStaj\\NortwindLvl2\\Business\\Business.csproj",
       "projectName": "Business",
-      "projectPath": "C:\\Users\\win10\\Source\\Repos\\NortwindLvl2\\Business\\Business.csproj",
+      "projectPath": "C:\\Users\\win10\\Desktop\\CMSStaj\\NortwindLvl2\\Business\\Business.csproj",
       "packagesPath": "C:\\Users\\win10\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\win10\\Source\\Repos\\NortwindLvl2\\Business\\obj\\",
+      "outputPath": "C:\\Users\\win10\\Desktop\\CMSStaj\\NortwindLvl2\\Business\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\win10\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1993,11 +1993,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\win10\\Source\\Repos\\NortwindLvl2\\DataAcces\\DataAcces.csproj": {
-              "projectPath": "C:\\Users\\win10\\Source\\Repos\\NortwindLvl2\\DataAcces\\DataAcces.csproj"
+            "C:\\Users\\win10\\Desktop\\CMSStaj\\NortwindLvl2\\DataAcces\\DataAcces.csproj": {
+              "projectPath": "C:\\Users\\win10\\Desktop\\CMSStaj\\NortwindLvl2\\DataAcces\\DataAcces.csproj"
             },
-            "C:\\Users\\win10\\Source\\Repos\\NortwindLvl2\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\win10\\Source\\Repos\\NortwindLvl2\\Entities\\Entities.csproj"
+            "C:\\Users\\win10\\Desktop\\CMSStaj\\NortwindLvl2\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\win10\\Desktop\\CMSStaj\\NortwindLvl2\\Entities\\Entities.csproj"
             }
           }
         }

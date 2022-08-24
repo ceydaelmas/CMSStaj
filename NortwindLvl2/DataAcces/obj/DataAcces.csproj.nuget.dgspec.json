@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\win10\\Source\\Repos\\NortwindLvl2\\DataAcces\\DataAcces.csproj": {}
+    "C:\\Users\\win10\\Desktop\\CMSStaj\\NortwindLvl2\\DataAcces\\DataAcces.csproj": {}
   },
   "projects": {
-    "C:\\Users\\win10\\Source\\Repos\\NortwindLvl2\\Core\\Core.csproj": {
+    "C:\\Users\\win10\\Desktop\\CMSStaj\\NortwindLvl2\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\win10\\Source\\Repos\\NortwindLvl2\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\win10\\Desktop\\CMSStaj\\NortwindLvl2\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\win10\\Source\\Repos\\NortwindLvl2\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\win10\\Desktop\\CMSStaj\\NortwindLvl2\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\win10\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\win10\\Source\\Repos\\NortwindLvl2\\Core\\obj\\",
+        "outputPath": "C:\\Users\\win10\\Desktop\\CMSStaj\\NortwindLvl2\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\win10\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\win10\\Source\\Repos\\NortwindLvl2\\DataAcces\\DataAcces.csproj": {
+    "C:\\Users\\win10\\Desktop\\CMSStaj\\NortwindLvl2\\DataAcces\\DataAcces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\win10\\Source\\Repos\\NortwindLvl2\\DataAcces\\DataAcces.csproj",
+        "projectUniqueName": "C:\\Users\\win10\\Desktop\\CMSStaj\\NortwindLvl2\\DataAcces\\DataAcces.csproj",
         "projectName": "DataAcces",
-        "projectPath": "C:\\Users\\win10\\Source\\Repos\\NortwindLvl2\\DataAcces\\DataAcces.csproj",
+        "projectPath": "C:\\Users\\win10\\Desktop\\CMSStaj\\NortwindLvl2\\DataAcces\\DataAcces.csproj",
         "packagesPath": "C:\\Users\\win10\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\win10\\Source\\Repos\\NortwindLvl2\\DataAcces\\obj\\",
+        "outputPath": "C:\\Users\\win10\\Desktop\\CMSStaj\\NortwindLvl2\\DataAcces\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\win10\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,11 +89,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\win10\\Source\\Repos\\NortwindLvl2\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\win10\\Source\\Repos\\NortwindLvl2\\Core\\Core.csproj"
+              "C:\\Users\\win10\\Desktop\\CMSStaj\\NortwindLvl2\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\win10\\Desktop\\CMSStaj\\NortwindLvl2\\Core\\Core.csproj"
               },
-              "C:\\Users\\win10\\Source\\Repos\\NortwindLvl2\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\win10\\Source\\Repos\\NortwindLvl2\\Entities\\Entities.csproj"
+              "C:\\Users\\win10\\Desktop\\CMSStaj\\NortwindLvl2\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\win10\\Desktop\\CMSStaj\\NortwindLvl2\\Entities\\Entities.csproj"
               }
             }
           }
@@ -133,14 +133,14 @@
         }
       }
     },
-    "C:\\Users\\win10\\Source\\Repos\\NortwindLvl2\\Entities\\Entities.csproj": {
+    "C:\\Users\\win10\\Desktop\\CMSStaj\\NortwindLvl2\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\win10\\Source\\Repos\\NortwindLvl2\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\win10\\Desktop\\CMSStaj\\NortwindLvl2\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\win10\\Source\\Repos\\NortwindLvl2\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\win10\\Desktop\\CMSStaj\\NortwindLvl2\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\win10\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\win10\\Source\\Repos\\NortwindLvl2\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\win10\\Desktop\\CMSStaj\\NortwindLvl2\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\win10\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -157,8 +157,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\win10\\Source\\Repos\\NortwindLvl2\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\win10\\Source\\Repos\\NortwindLvl2\\Core\\Core.csproj"
+              "C:\\Users\\win10\\Desktop\\CMSStaj\\NortwindLvl2\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\win10\\Desktop\\CMSStaj\\NortwindLvl2\\Core\\Core.csproj"
               }
             }
           }

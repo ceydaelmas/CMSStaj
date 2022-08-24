@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\win10\\Source\\Repos\\NortwindLvl2\\WebAPI\\WebAPI.csproj": {}
+    "C:\\Users\\win10\\Desktop\\CMSStaj\\NortwindLvl2\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\win10\\Source\\Repos\\NortwindLvl2\\WebAPI\\WebAPI.csproj": {
+    "C:\\Users\\win10\\Desktop\\CMSStaj\\NortwindLvl2\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\win10\\Source\\Repos\\NortwindLvl2\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\win10\\Desktop\\CMSStaj\\NortwindLvl2\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "C:\\Users\\win10\\Source\\Repos\\NortwindLvl2\\WebAPI\\WebAPI.csproj",
+        "projectPath": "C:\\Users\\win10\\Desktop\\CMSStaj\\NortwindLvl2\\WebAPI\\WebAPI.csproj",
         "packagesPath": "C:\\Users\\win10\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\win10\\Source\\Repos\\NortwindLvl2\\WebAPI\\obj\\",
+        "outputPath": "C:\\Users\\win10\\Desktop\\CMSStaj\\NortwindLvl2\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\win10\\AppData\\Roaming\\NuGet\\NuGet.Config",

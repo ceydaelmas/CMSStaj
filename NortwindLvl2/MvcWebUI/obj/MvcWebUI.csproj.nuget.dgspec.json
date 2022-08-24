@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\win10\\Source\\Repos\\NortwindLvl2\\MvcWebUI\\MvcWebUI.csproj": {}
+    "C:\\Users\\win10\\Desktop\\CMSStaj\\NortwindLvl2\\MvcWebUI\\MvcWebUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\win10\\Source\\Repos\\NortwindLvl2\\MvcWebUI\\MvcWebUI.csproj": {
+    "C:\\Users\\win10\\Desktop\\CMSStaj\\NortwindLvl2\\MvcWebUI\\MvcWebUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\win10\\Source\\Repos\\NortwindLvl2\\MvcWebUI\\MvcWebUI.csproj",
+        "projectUniqueName": "C:\\Users\\win10\\Desktop\\CMSStaj\\NortwindLvl2\\MvcWebUI\\MvcWebUI.csproj",
         "projectName": "MvcWebUI",
-        "projectPath": "C:\\Users\\win10\\Source\\Repos\\NortwindLvl2\\MvcWebUI\\MvcWebUI.csproj",
+        "projectPath": "C:\\Users\\win10\\Desktop\\CMSStaj\\NortwindLvl2\\MvcWebUI\\MvcWebUI.csproj",
         "packagesPath": "C:\\Users\\win10\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\win10\\Source\\Repos\\NortwindLvl2\\MvcWebUI\\obj\\",
+        "outputPath": "C:\\Users\\win10\\Desktop\\CMSStaj\\NortwindLvl2\\MvcWebUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\win10\\AppData\\Roaming\\NuGet\\NuGet.Config",
