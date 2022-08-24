@@ -15,6 +15,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\win10\Desktop\CMSStaj\NortwindLvl2\MvcWebUI
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/win10/Desktop/CMSStaj/NortwindLvl2/MvcWebUI/Views/About/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/win10/Desktop/CMSStaj/NortwindLvl2/MvcWebUI/Views/Contact/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/win10/Desktop/CMSStaj/NortwindLvl2/MvcWebUI/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -23,12 +31,32 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/win10/Desktop/CMSStaj/NortwindLvl2/MvcWebUI/Views/NewsDetail/NewsDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c0RldGFpbFxOZXdzRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/win10/Desktop/CMSStaj/NortwindLvl2/MvcWebUI/Views/News/News.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c1xOZXdzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/win10/Desktop/CMSStaj/NortwindLvl2/MvcWebUI/Views/Resume/Resume.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdW1lXFJlc3VtZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/win10/Desktop/CMSStaj/NortwindLvl2/MvcWebUI/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/win10/Desktop/CMSStaj/NortwindLvl2/MvcWebUI/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/win10/Desktop/CMSStaj/NortwindLvl2/MvcWebUI/Views/WorksDetail/WorksDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya3NEZXRhaWxcV29ya3NEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/win10/Desktop/CMSStaj/NortwindLvl2/MvcWebUI/Views/Works/Works.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya3NcV29ya3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/win10/Desktop/CMSStaj/NortwindLvl2/MvcWebUI/Views/_ViewImports.cshtml]
